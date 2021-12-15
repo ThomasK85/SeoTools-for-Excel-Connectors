@@ -29,6 +29,7 @@
 				<Item Id="https://amazon.es" Title="Spain (amazon.es)"/>
 				<Item Id="https://amazon.co.uk" Title="United Kingdom (amazon.co.uk)"/>
 				<Item Id="https://amazon.com.au" Title="Australia (amazon.com.au)"/>
+				<Item Id="https://amazon.se" Title="Sweden (amazon.se)"/>
 			</DataSource>
     </Resource>		
     <Resource Id="Sortings">
